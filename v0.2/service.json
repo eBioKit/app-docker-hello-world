@@ -1,0 +1,9 @@
+{
+	"service":"hello-world",
+	"version":"0.2",
+	"title":"HelloWorld",
+	"description":"Just a dummy service.",
+	"categories":"databases,search,bioinformatics,aligment,web-based",
+	"website":"http://skavenger.byethost8.com/homerswebpage/?i=1",
+	"dockers" : "fikipollo/hello-world:0.2,busybox"
+}

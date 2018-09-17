@@ -1,0 +1,22 @@
+[
+	{
+		"name": "INSTANCE_TITLE",
+		"label": "Service name",
+		"type": "text",
+		"description": "The title for the new service",
+		"default": "HelloWorld"
+	},
+	{
+		"name": "INSTANCE_PORT_1",
+		"label": "Port number",
+		"type": "number",
+		"description": "The main port number for the new instance (Httpd server)",
+		"default": 18072
+	},
+	{
+		"name": "MESSAGE",
+		"label": "Message to show",
+		"type": "text",
+		"description": "The message to show at the index page."
+	}
+]
